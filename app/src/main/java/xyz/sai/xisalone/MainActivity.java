@@ -11,9 +11,9 @@ import android.widget.Toast;
 import java.util.Iterator;
 import java.util.Random;
 
-import xyz.smaeul.xisalone.expression.Expression;
-import xyz.smaeul.xisalone.expression.Polynomial;
-import xyz.smaeul.xisalone.expression.Term;
+import xyz.sai.xisalone.expression.Expression;
+import xyz.sai.xisalone.expression.Polynomial;
+import xyz.sai.xisalone.expression.Term;
 
 public class MainActivity extends AppCompatActivity implements OnSwipeListener {
     // Radius size for circle in pixels: motion outside of this circle is considered input

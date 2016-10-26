@@ -8,6 +8,7 @@ import android.view.View.OnTouchListener;
 /**
  * Created by Chris on 10/15/16.
  * Refactored by Samuel on 10/15/16.
+ * Refactored by Sai Kovuri on 10/15/16.
  */
 
 public class TouchListener implements OnTouchListener {

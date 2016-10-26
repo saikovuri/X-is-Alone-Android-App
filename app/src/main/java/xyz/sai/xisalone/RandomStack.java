@@ -3,7 +3,7 @@ package xyz.sai.xisalone;
 import java.util.Random;
 import java.util.Stack;
 
-import xyz.smaeul.xisalone.expression.Term;
+import xyz.sai.xisalone.expression.Term;
 
 /**
  * Created by Sai Kovuri on 10/14/2016.

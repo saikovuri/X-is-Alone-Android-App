@@ -4,8 +4,7 @@ import java.util.LinkedList;
 
 /**
  * Created by Madi on 10/14/16.
- * Refactored by Samuel on 10/15/16
- * Refactored by Samuel on 10/26/16
+ * Refactored by Sai Kovuri on 10/15/16
  */
 
 public class Polynomial {

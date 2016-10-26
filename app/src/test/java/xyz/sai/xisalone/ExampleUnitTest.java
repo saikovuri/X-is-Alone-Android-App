@@ -1,4 +1,4 @@
-package xyz.smaeul.xisalone;
+package xyz.sai.xisalone;
 
 import org.junit.Test;
 
