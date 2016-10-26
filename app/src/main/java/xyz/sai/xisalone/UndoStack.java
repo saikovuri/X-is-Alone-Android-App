@@ -1,4 +1,4 @@
-package xyz.smaeul.xisalone;
+package xyz.sai.xisalone;
 
 import android.util.Log;
 
@@ -7,7 +7,7 @@ import java.util.Stack;
 import xyz.smaeul.xisalone.expression.Term;
 
 /**
- * Created by YANG on 10/15/2016.
+ * Created by Sai Kovuri on 10/15/2016.
  */
 
 public class UndoStack {

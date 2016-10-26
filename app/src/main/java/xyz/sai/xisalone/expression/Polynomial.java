@@ -1,10 +1,11 @@
-package xyz.smaeul.xisalone.expression;
+package xyz.sai.xisalone.expression;
 
 import java.util.LinkedList;
 
 /**
  * Created by Madi on 10/14/16.
  * Refactored by Samuel on 10/15/16
+ * Refactored by Samuel on 10/26/16
  */
 
 public class Polynomial {
@@ -46,7 +47,7 @@ public class Polynomial {
     }
 
     public boolean isConstant() {
-        return terms.size() == 1 && terms.getFirst().exponent == 0;
+        return terms.size() == 0 || (terms.size() == 1 && terms.getFirst().exponent == 0);
     }
 
     public boolean isIdentity() {

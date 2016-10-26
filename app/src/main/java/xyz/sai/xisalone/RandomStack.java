@@ -1,4 +1,4 @@
-package xyz.smaeul.xisalone;
+package xyz.sai.xisalone;
 
 import java.util.Random;
 import java.util.Stack;

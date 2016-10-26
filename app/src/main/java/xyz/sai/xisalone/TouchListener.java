@@ -1,4 +1,4 @@
-package xyz.smaeul.xisalone;
+package xyz.sai.xisalone;
 
 import android.support.v4.view.MotionEventCompat;
 import android.view.MotionEvent;

@@ -1,4 +1,4 @@
-package xyz.smaeul.xisalone;
+package xyz.sai.xisalone;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

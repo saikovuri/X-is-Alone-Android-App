@@ -1,4 +1,4 @@
-package xyz.smaeul.xisalone.expression;
+package xyz.sai.xisalone.expression;
 
 /**
  * Created by Samuel on 10/15/16.
